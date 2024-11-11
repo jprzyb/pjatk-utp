@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="UTP2 zip">
+    <output-path>$PROJECT_DIR$/out/artifacts/UTP2_zip</output-path>
+    <root id="root">
+      <element id="archive" name="UTP2_WT_S17315.zip">
+        <element id="directory" name="UTP2_WT_S17315">
+          <element id="file-copy" path="$PROJECT_DIR$/UTP-2.LAMCOMB.S_MAYBE.S_ANAGRAMS.S_ANAGRASTREAM/.classpath" />
+          <element id="file-copy" path="$PROJECT_DIR$/UTP-2.LAMCOMB.S_MAYBE.S_ANAGRAMS.S_ANAGRASTREAM/.project" />
+          <element id="directory" name="src">
+            <element id="dir-copy" path="$PROJECT_DIR$/UTP-2.LAMCOMB.S_MAYBE.S_ANAGRAMS.S_ANAGRASTREAM/src" />
+          </element>
+          <element id="directory" name="bin">
+            <element id="dir-copy" path="$PROJECT_DIR$/UTP-2.LAMCOMB.S_MAYBE.S_ANAGRAMS.S_ANAGRASTREAM/bin" />
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UTP-1.GENERICS.LAMBDA/UTP1_XX_SXXXXX.iml" filepath="$PROJECT_DIR$/UTP-1.GENERICS.LAMBDA/UTP1_XX_SXXXXX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UTP-2.LAMCOMB.S_MAYBE.S_ANAGRAMS.S_ANAGRASTREAM/UTP2_XX_SXXXXX.iml" filepath="$PROJECT_DIR$/UTP-2.LAMCOMB.S_MAYBE.S_ANAGRAMS.S_ANAGRASTREAM/UTP2_XX_SXXXXX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UTP-3.XLIST.CUSTOMERS.PROGRAMMERS/UTP3_XX_SXXXXX.iml" filepath="$PROJECT_DIR$/UTP-3.XLIST.CUSTOMERS.PROGRAMMERS/UTP3_XX_SXXXXX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UTP-4.S_WALKFTREEA.S_WALKFTREEB/UTP4_XX_SXXXXX.iml" filepath="$PROJECT_DIR$/UTP-4.S_WALKFTREEA.S_WALKFTREEB/UTP4_XX_SXXXXX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UTP-5.BIGDECCALC.JAVABEAN/UTP5_XX_SXXXXX.iml" filepath="$PROJECT_DIR$/UTP-5.BIGDECCALC.JAVABEAN/UTP5_XX_SXXXXX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UTP-6.S_INTERDB/UTP6_XX_SXXXXX.iml" filepath="$PROJECT_DIR$/UTP-6.S_INTERDB/UTP6_XX_SXXXXX.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="UTP1 zip">
+    <output-path>$PROJECT_DIR$/out/artifacts/UTP1_zip</output-path>
+    <root id="root">
+      <element id="archive" name="UTP1_WT_S17315.zip">
+        <element id="directory" name="UTP1_WT_S17315">
+          <element id="file-copy" path="$PROJECT_DIR$/UTP-1.GENERICS.LAMBDA/.classpath" />
+          <element id="file-copy" path="$PROJECT_DIR$/UTP-1.GENERICS.LAMBDA/.project" />
+          <element id="directory" name="src">
+            <element id="dir-copy" path="$PROJECT_DIR$/UTP-1.GENERICS.LAMBDA/src" />
+          </element>
+          <element id="directory" name="bin">
+            <element id="dir-copy" path="$PROJECT_DIR$/UTP-1.GENERICS.LAMBDA/bin" />
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

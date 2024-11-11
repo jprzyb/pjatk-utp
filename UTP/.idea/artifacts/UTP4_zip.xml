@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="UTP4 zip">
+    <output-path>$PROJECT_DIR$/out/artifacts/UTP4_zip</output-path>
+    <root id="root">
+      <element id="archive" name="UTP4_WT_S17315.zip">
+        <element id="directory" name="UTP4_WT_S17315">
+          <element id="file-copy" path="$PROJECT_DIR$/UTP-4.S_WALKFTREEA.S_WALKFTREEB/.classpath" />
+          <element id="file-copy" path="$PROJECT_DIR$/UTP-4.S_WALKFTREEA.S_WALKFTREEB/.project" />
+          <element id="directory" name="src">
+            <element id="dir-copy" path="$PROJECT_DIR$/UTP-4.S_WALKFTREEA.S_WALKFTREEB/src" />
+          </element>
+          <element id="directory" name="bin">
+            <element id="dir-copy" path="$PROJECT_DIR$/UTP-4.S_WALKFTREEA.S_WALKFTREEB/bin" />
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
